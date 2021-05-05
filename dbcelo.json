@@ -1,5 +1,5 @@
 {
-    "_pessoas": [
+    "pessoas_type": [
       {
         "id": true,      
         "nome": true,
