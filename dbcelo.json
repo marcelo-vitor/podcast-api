@@ -1,8 +1,7 @@
 {
-    "_pessoas": [
-      {
+    "_pessoas": {
         "nome": "true",
         "idade": "false",
-      },
-    ],
+    }
+ 
 }
