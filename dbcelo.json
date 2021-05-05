@@ -1,9 +1,9 @@
 {
-    "pessoas": 
+    "pessoas": [
       {
         "id": true,      
         "nome": true,
         "idade": false
       }
-    
+    ]
 }
